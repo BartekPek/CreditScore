@@ -44,3 +44,4 @@ Thumbs.db
 # Other temporary files
 *.tmp
 *.bak
+"data/XGBoost75Accuracy" 
