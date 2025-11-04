@@ -1,0 +1,46 @@
+# ===============================
+#   Python / Machine Learning
+# ===============================
+
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Data files
+*.csv
+*.xlsx
+*.json
+*.parquet
+
+# Model artifacts
+*.pkl
+*.joblib
+*.xgb
+*.h5
+
+# MLflow local tracking
+mlruns/
+
+# Checkpoints / notebooks autosaves
+.ipynb_checkpoints/
+*.ipynb_save
+*.log
+
+# System / IDE files
+.DS_Store
+Thumbs.db
+*.code-workspace
+
+# VSCode / PyCharm settings
+.vscode/
+.idea/
+
+# Other temporary files
+*.tmp
+*.bak
