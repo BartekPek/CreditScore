@@ -20,6 +20,7 @@ The pipeline:
 
 ## Project Structure
 
+```plaintext
 CreditScore/
 │
 ├── code/
@@ -44,7 +45,6 @@ CreditScore/
 ├── requirements.txt
 └── README.md
 
----
 
 ##  Model Details
 
