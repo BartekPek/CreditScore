@@ -96,7 +96,7 @@ CreditScore/
 - Add SHAP explainability to interpret model predictions  
 - Build REST API with FastAPI for real-time inference  
 - Deploy the model using Docker or Streamlit Cloud  
-- Extend MLflow tracking to cloud backend (e.g. DagsHub / AWS S3)
+
 
 ---
 
