@@ -1,11 +1,11 @@
-# 🧠 CreditScore — Machine Learning Credit Risk Model
+# CreditScore — Machine Learning Credit Risk Model
 
 This repository contains a complete **end-to-end machine learning pipeline** for predicting customer credit scores using real-world financial data.  
 The project includes **data preprocessing**, **hyperparameter optimization** with Optuna, **model training** using XGBoost, **MLflow experiment tracking**, and result visualization.
 
 ---
 
-## 🚀 Project Overview
+## Project Overview
 
 The goal of this project is to build a **credit scoring model** that predicts a customer’s creditworthiness based on their historical financial and behavioral profile.
 
@@ -18,7 +18,7 @@ The pipeline:
 
 ---
 
-## 🧩 Project Structure
+## Project Structure
 
 CreditScore/
 │
@@ -46,7 +46,7 @@ CreditScore/
 
 ---
 
-## 🧮 Model Details
+##  Model Details
 
 | Component | Description |
 |------------|-------------|
@@ -79,28 +79,28 @@ CreditScore/
 
 ---
 
-## ⚙️ Tools & Technologies
+## Tools & Technologies
 
-- 🐍 **Python 3.11**
-- 🧮 **XGBoost** — gradient boosting algorithm  
-- 🎯 **Optuna** — hyperparameter tuning  
-- 📊 **scikit-learn** — model evaluation & metrics  
-- 🧾 **MLflow** — experiment tracking and model versioning  
-- 📈 **Matplotlib / Seaborn** — result visualization  
-- 🧠 **Pandas / NumPy** — data handling & preprocessing  
-
----
-
-## 🔮 Future Improvements
-
-- 🧾 Add SHAP explainability to interpret model predictions  
-- ⚙️ Build REST API with FastAPI for real-time inference  
-- ☁️ Deploy the model using Docker or Streamlit Cloud  
-- 📈 Extend MLflow tracking to cloud backend (e.g. DagsHub / AWS S3)
+- **Python 3.11**
+- **XGBoost** — gradient boosting algorithm  
+- **Optuna** — hyperparameter tuning  
+- **scikit-learn** — model evaluation & metrics  
+- **MLflow** — experiment tracking and model versioning  
+- **Matplotlib / Seaborn** — result visualization  
+- **Pandas / NumPy** — data handling & preprocessing  
 
 ---
 
-## 👤 Author
+## Future Improvements
+
+- Add SHAP explainability to interpret model predictions  
+- Build REST API with FastAPI for real-time inference  
+- Deploy the model using Docker or Streamlit Cloud  
+- Extend MLflow tracking to cloud backend (e.g. DagsHub / AWS S3)
+
+---
+
+## Author
 
 **Bartłomiej Pęk**  
 *Machine Learning Engineer / Data Scientist*  
@@ -108,6 +108,3 @@ CreditScore/
 🔗 [linkedin.com/in/bartlomiejpek](https://www.linkedin.com/in/bartlomiejpek)
 
 ---
-
-
-"# CreditScore" 
